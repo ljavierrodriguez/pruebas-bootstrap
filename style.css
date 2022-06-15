@@ -1,0 +1,14 @@
+.foto {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+
+.carousel-item img {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    object-position: center;
+}
